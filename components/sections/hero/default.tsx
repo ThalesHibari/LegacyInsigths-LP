@@ -77,6 +77,7 @@ export default function Hero({
             style={{
               fontSize: '64px',
               fontWeight: 600,
+              lineHeight: '72px',
               backgroundImage: 'linear-gradient(0deg, rgba(255, 255, 255, 1) 0%, rgba(255, 255, 255, 0.6) 100%)',
               WebkitBackgroundClip: 'text',
               color: 'transparent'
